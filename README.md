@@ -1,12 +1,12 @@
-## FlappyBird Game!
+## ✔ | FlappyBird Game!
 
-Jogo igual o antigo Flappy Bird, criado por mim agora total em python.
+✔ Jogo igual o antigo Flappy Bird, criado por mim agora total em python.
 
 Para rodar o jogo se deve instalar as biblioteca e dependencias:
 
 #cmd: pip install pygame 
 
-Obs: O jogo vai ficando cada vez mais rápido, e sua dificuldade vai aumentando ao decorrer da jornada, meu recorde é 25 por enquanto, qual o seu?
+🧨 | Obs: O jogo vai ficando cada vez mais rápido, e sua dificuldade vai aumentando ao decorrer da jornada, meu recorde é 25 por enquanto, qual o seu?
 
 Prints do Jogo:
 
