@@ -104,7 +104,7 @@ class Passaro:
 
 class Cano:
     DISTANCIA = 200 # Distância entre os canos
-    VELOCIDADE = 5 # Velocidade dos canos
+    VELOCIDADE = 5 # Velocidade dos canos 
 
     # Criando um construtor para a classe Cano no jogo, para definir a posição x do cano e a altura do cano
     def __init__(self, x): # Construtor da classe Cano, apenas a posição x do cano, pois a posição y é aleatória
