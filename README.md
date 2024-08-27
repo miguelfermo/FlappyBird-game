@@ -1,6 +1,6 @@
 # ✔ | FlappyBird Game!
 
-Jogo igual o antigo Flappy Bird, criado por mim agora total em python.
+Jogo igual o antigo Flappy Bird. Agora, totalmente em python e criado por mim.
 
 ## 🔧 Intalação:
 
