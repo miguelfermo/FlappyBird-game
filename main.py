@@ -1,3 +1,5 @@
+# Futuramente rodar na web como itch.io, gamejolt, etc
+
 import pygame 
 import os
 import random
@@ -272,4 +274,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main()) # Chama a função main() para rodar o jogo
-    
