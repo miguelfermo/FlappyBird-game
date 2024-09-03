@@ -272,3 +272,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main()) # Chama a função main() para rodar o jogo
+    
