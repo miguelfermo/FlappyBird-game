@@ -14,6 +14,10 @@ Apenas clicar em 'run' e ele irá rodar o jogo!
 ## 🧨 | Observações: 
 O jogo vai ficando cada vez mais rápido, e sua dificuldade vai aumentando ao decorrer da jornada, meu recorde é 25 por enquanto, qual o seu?
 
+## 📩 Dúvidas:
+
+Qualquer dúvida, pode enviar um email para: [Miguel Rossi Fermo](mailto:miguelrossifermo05@gmail.com)
+
 ## 🔭 Demonstração do jogo:
 
 ![image](https://github.com/miguelfermo/FlappyBird---game/assets/138122016/d8008fd4-bc71-4d69-ba62-6acc3dc056e8)
